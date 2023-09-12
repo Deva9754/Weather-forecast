@@ -14,15 +14,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,97,1) 39%, rgba
     justify-content: center;
     align-items: center;
 }
-.card{
-  border-radius: 35px;
-  border-top: 12px;
-   
-}
 .card-body{
-    /* background-image: url("");
-    background-repeat: no-repeat;
-    background-size: cover; */
     background: rgb(34,193,195);
 background: linear-gradient(0deg, rgba(34,193,195,1) 31%, rgba(253,187,45,1) 100%);
 }
